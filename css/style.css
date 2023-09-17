@@ -158,9 +158,9 @@ body {
     z-index: 1;
     /* display: none; */
 }
-/* .header .container .links:hover ul {
+.header .container .links:hover ul {
     display: block;
-} */
+}
 
 .header .container .links  ul::before {
     content: '';
